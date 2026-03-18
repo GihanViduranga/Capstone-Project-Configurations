@@ -4,7 +4,7 @@ spring:
       enabled: true
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/db-capstone
+    url: jdbc:postgresql://db.btvenvxxetxuprmbqahr.supabase.co:5432/postgres?user=postgres&password=GihanVidu1998
     username: postgres
     password: psql
     driver-class-name: org.postgresql.Driver
